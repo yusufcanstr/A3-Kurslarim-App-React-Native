@@ -1,3 +1,4 @@
+Uygulama Ekran Görüntükeri
 <table>
         <tr>
             <td>
@@ -8,6 +9,4 @@
                 <img src="https://github.com/yusufcanstr/A3-Kurslarim-App-React-Native/blob/master/assets/Screenshot/Screenshot_1714207475.png">
                 <p>Course Add Screen</p>
             </td>
-          
-        </tr>
 </table>
